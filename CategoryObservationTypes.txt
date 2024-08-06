@@ -1,0 +1,2 @@
+C100;stress level;low;medium;high
+C200;fat ;normal;medium;high
